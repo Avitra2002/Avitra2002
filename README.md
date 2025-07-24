@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Engineer | Full-Stack Developer | Passionate About Human-Centric Tech</h3>
 
 ## 💫 About Me:
-- 🔭 I’m currently working on [AI Fashion Companion App](https://github.com/Avitra2002/AIFashionCompanion)
+- 🔭 I’m currently working on [AlphaLens](https://github.com/Avitra2002/AlphaLens.git)
 
 - 🌱 I’m currently learning **Go, Dart, TypeScript**
 
