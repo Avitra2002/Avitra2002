@@ -4,7 +4,7 @@
 ## 💫 About Me:
 - 🔭 I’m currently working on [AlphaLens](https://github.com/Avitra2002/AlphaLens.git)
 
-- 🌱 I’m currently learning **Go, Dart, TypeScript**
+- 🌱 I’m currently learning **Vue/Nuxt, Dart, TypeScript**
 
 - 👨‍💻 All of my projects are available at [to add](to add)
 
