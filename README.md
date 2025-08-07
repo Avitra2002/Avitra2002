@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **phonavitra@gmail.com**
 
-- 📄 Know about my experiences [Resume](to add)
+- 📄 Know about my experiences [My Resume](https://github.com/Avitra2002/Avitra2002/blob/c7a76898138ec1d020bc69cfbfcb50e801288be0/Avitra%20Phon%20-%20Resume.pdf)
 
 - ⚡ Fun fact 📺 Sometimes I watch football highlights and subconsciously think, “Nice YOLO detection on that offside line.”
 
